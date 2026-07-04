@@ -8,7 +8,7 @@ https://wanshikarajput.github.io/Github-profile-finder/
 
 ## 📂 Repository
 
-
+https://github.com/WanshikaRajput/Github-profile-finder/tree/main
 
 ## ✨ Features
 
