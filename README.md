@@ -4,11 +4,11 @@ A GitHub Profile Finder built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-https://YOUR-GITHUB-PAGES-LINK
+https://wanshikarajput.github.io/Github-profile-finder/
 
 ## 📂 Repository
 
-https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
 
 ## ✨ Features
 
